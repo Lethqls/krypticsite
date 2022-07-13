@@ -1,0 +1,37 @@
+---
+name: "Kryptic"
+url: "Kryptic"
+hidden: false
+only-premium: false
+versions:
+- "1.7.10"
+- "1.8"
+- "1.8.1"
+- "1.8.2"
+- "1.8.3"
+- "1.8.4"
+- "1.8.5"
+- "1.8.6"
+- "1.8.7"
+- "1.8.8"
+- "1.8.9"
+categories:
+- "factions"
+staff:
+- Fondatore:
+ - "fec23c42-8822-4a2c-8a7c-fdca274c5f46"
+- Vice:
+ - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
+ - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
+www: "http://www.kryptic.it"
+forum: ""
+telegram: "http://telegram.kryptic.it"
+discord: "https://discord.gg/UfFvWWbvN2"
+twitter: ""
+ts: ""
+mumble: ""
+query_port: 25588
+theme_color: "#cc0000"
+---
+#Benvenuti su Kryptic
+Entra ora nell'OpFactions!

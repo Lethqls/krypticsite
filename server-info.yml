@@ -19,10 +19,10 @@ categories:
 - "factions"
 staff:
 - Fondatore:
- - "fec23c42-8822-4a2c-8a7c-fdca274c5f46"
+  - "fec23c42-8822-4a2c-8a7c-fdca274c5f46"
 - Vice:
- - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
- - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
+  - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
+  - "78ebc1f7-9583-43c1-9b46-9193e1ef351f"
 www: "http://www.kryptic.it"
 forum: ""
 telegram: "http://telegram.kryptic.it"
@@ -33,5 +33,7 @@ mumble: ""
 query_port: 25588
 theme_color: "#cc0000"
 ---
+
 #Benvenuti su Kryptic
-Entra ora nell'OpFactions!
+Kryptic è un server OpFactions che nasce con lo scopo di riportare la modalità Op Factions su Minecraft Italia. Completamente finito e sviluppato ha raccolto tutte le feature introdotte nel corso del tempo dai tempi dei primi server fazioni a quelli più recenti. Il server presenta uno spigot custom di nome KrypticSpigot il quale permette di avere delle
+vere Hit Combo 1.5.2 e può reggere dal più facile al più complesso dei cannoni oltre a varie feature aggiuntive. Durante la permanenza nel server ci sono vari eventi settimanali con la quale si possono ottenere ricompense come Give, Miner, KOTH ed Envoy. Lo scopo è quello di creare una Fazione, farmare soldi e fare pvp oltre a dominare il server attraverso la factions top dove il vincitore potrà ricevere un premio in denaro.
